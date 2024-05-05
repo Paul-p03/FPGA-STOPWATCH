@@ -1,1 +1,1 @@
-# FPGA-STOPWATCH
+This is a Real Time stopwatch project I created using an FPGA board and Verilog implementation. This timer counts from 0-59.99 seconds while resetting the timer automatically, accounting for hundreths of a second. This was my final project for Digital Logic Design course. I incorporated a start and stop feature along side a reset button for user interaction.
